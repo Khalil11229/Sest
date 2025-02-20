@@ -36,7 +36,7 @@ const db = require('quick.db');
 /////////////////
 
 const prefix = "+"//بيرفكس الى تبيه
-const developers = ""//الايدي حقك
+const developers = "1263022068262502421"//الايدي حقك
 
 
 //play
