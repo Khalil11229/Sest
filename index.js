@@ -41,7 +41,7 @@ const developers = "1263022068262502421"//الايدي حقك
 
 //play
 client.on("ready", () => {
-  client.user.setActivity(`#help`)//غير الحالة الي تريد
+  client.user.setActivity(`+help`)//غير الحالة الي تريد
 });
 
 //commends common
